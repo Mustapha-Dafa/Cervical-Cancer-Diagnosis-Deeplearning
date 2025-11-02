@@ -2,7 +2,7 @@
 
 Description
 -----------
-This repository contains a notebook for training CNN models (DenseNet, Inception, Xception), saved pre-trained models, and a Flask web interface for making predictions via a REST API.
+This repository contains a notebook for training CNN models (DenseNet, Inception, Xception) for Cervical Cancer detection and classification, saved pre-trained models, and a Flask web interface for making predictions via a REST API.
 
 Project Structure
 ----------------
